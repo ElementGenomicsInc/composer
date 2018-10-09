@@ -62,3 +62,7 @@ electron/node_modules
 .testrun
 
 electron/executor
+
+# added by ian.mcdowell
+ng_dist/
+build/
